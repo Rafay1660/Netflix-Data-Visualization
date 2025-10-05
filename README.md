@@ -36,13 +36,8 @@ This project performs **Exploratory Data Analysis (EDA)** on Netflix’s dataset
 
 ### 🎥 Movies vs TV Shows
 Shows the comparison between the number of Movies and TV Shows available on Netflix.  
-![Movies vs TV Shows](output_charts/movies_vs_tvshows.png)
+![Movies vs TV Shows](output_charts/Movies_Vs_TvShows.png)
 
----
-
-### 🍿 Content Rating Distribution
-Illustrates how Netflix content is rated globally (TV-MA, TV-14, PG, etc.).  
-![Content Ratings](output_charts/content_ratings_pie.png)
 
 ---
 
