@@ -84,7 +84,7 @@ A multi-plot view showing how Movies and TV Shows evolved together over the year
 
 ⭐ **Author:** [Abdul Rafay]  
 📧 *Email:* contactwithrafay@gmail.com  
-💼 *Portfolio:* [GitHub Profile Link]  
+💼 *Portfolio:* [https://github.com/Rafay1660]  
 
 ---
 
